@@ -1,2 +1,2 @@
 # Light
-Some pictures of a game making by myself
+Some pictures of a game making by ai
